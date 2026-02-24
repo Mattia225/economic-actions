@@ -28,3 +28,10 @@ this is page 7 the website
 
 ![Logo](screen/7.png)
 
+this is page 8 the website
+
+![Logo](screen/7.png)
+
+this is page 9 the website
+
+![Logo](screen/7.png)
